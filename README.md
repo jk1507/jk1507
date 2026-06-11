@@ -1,11 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Jaya%20Krishna&fontAlign=50&fontAlignY=40&color=gradient&customColorList=6,11,20,24,30&fontColor=ffffff&animation=fadeIn&desc=Cybersecurity%20%7C%20AI%20Security%20%7C%20DFIR&descAlignY=60&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Jaya%20Krishna&fontAlign=50&fontAlignY=38&color=gradient&customColorList=0,12,20,30&fontColor=ffffff&animation=fadeIn&desc=Cybersecurity%20Student%20|%20DFIR%20|%20Networking%20Enthusiast&descAlignY=60&descSize=20" width="100%" />
 
-# 🛡️ Jaya Krishna
+<h1>🛡️ Cybersecurity | Digital Investigation | AI Security</h1>
 
-### Cybersecurity Student | AI Security Researcher | DFIR Learner
-
-🚔 Cyber Crime Investigation • 🤖 AI Security • 💻 Full Stack Development
+<p>
+🚔 Intern @ Cyber Crime Police AP <br>
+🔎 Learning Digital Forensics, Threat Hunting & Cyber Investigation <br>
+🌐 Networking Enthusiast | Dark Web Research & OSINT Learning <br>
+🤖 Exploring AI-Powered Threat Detection Systems <br>
+🥊 Boxer | Discipline • Focus • Consistency
+</p>
 
 </div>
