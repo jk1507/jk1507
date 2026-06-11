@@ -155,8 +155,120 @@
 <img src="https://img.shields.io/badge/CTF_Player-FF3131?style=for-the-badge&labelColor=111111" />
 
 </div>
+---
+
+<div align="center">
+
+# 🚀 Featured Projects
+
+</div>
+
+<table width="100%">
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+## 🛡️ TMGC — Threat Monitoring & Global Checker
+
+**AI-Powered Domain Threat Intelligence & OSINT Analyzer Tool**
+
+Advanced domain investigation system focused on:
+
+🔍 **Domain Threat Analysis**
+🌐 **OSINT & Reputation Investigation**
+🛡️ **Threat Intelligence & Security Checks**
+🤖 **AI-Based Threat Detection**
+⚡ **Suspicious Domain Investigation**
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/OSINT-00E5FF?style=for-the-badge&labelColor=111111" />
+
+<img src="https://img.shields.io/badge/Threat_Intelligence-FF3131?style=for-the-badge&labelColor=111111" />
+
+<img src="https://img.shields.io/badge/AI_Security-B266FF?style=for-the-badge&labelColor=111111" />
+
+<br><br>
+
+<a href="https://github.com/jk1507/TMGC">
+<img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+## 🧠 Mood & Wellness Tracker (DBMS Project)
+
+**AI-Powered Mental Wellness & Fitness Tracking System**
+
+Smart wellness system focused on:
+
+💙 **Mental Wellness Tracking**
+🏋️ **Fitness & Health Monitoring**
+🤖 **AI-Based Mood Analysis**
+📊 **Progress & Activity Tracking**
+🧘 **Personalized Wellness Insights**
+
+<br>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<img src="https://img.shields.io/badge/AI_Integration-B266FF?style=for-the-badge&labelColor=111111" />
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Wellness_Tech-39FF14?style=for-the-badge&labelColor=111111" />
+
+<br><br>
+
+<a href="https://github.com/jk1507/DBMS-Project">
+<img src="https://img.shields.io/badge/View_Project-39FF14?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+---
+
+<div align="center">
+
+# 🏆 Achievements
+
+<br>
+
+<img src="https://img.shields.io/badge/🥇%20Rumble%20Resolution%20Hackathon-WINNER-FFD700?style=for-the-badge&labelColor=111111" />
+
+<img src="https://img.shields.io/badge/💻%20Award-Laptop%20Stand-00E5FF?style=for-the-badge&labelColor=111111" />
+
+<img src="https://img.shields.io/badge/🎯%20Meta%20Quest%20Series-3rd%20Position-FF6B00?style=for-the-badge&labelColor=111111" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🌍%20GSSoC%202026-Global%20Rank%20536-B266FF?style=for-the-badge&labelColor=111111" />
+
+<img src="https://img.shields.io/badge/🚀%20Open%20Source-GSSoC%20Contributor-39FF14?style=for-the-badge&labelColor=111111" />
+
+<img src="https://img.shields.io/badge/🏅%20Meta%20Quest%20Series-Top%20Performer-00F7FF?style=for-the-badge&labelColor=111111" />
+
+</div>
+---
+
+<div align="center">
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jk1507/jk1507/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+</p>
+
+</div>
 
 ---
+
 
 <div align="center">
 
