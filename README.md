@@ -385,6 +385,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:7D5FFF,100:000000&height=3"/>
 </div>
 
+
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:7D5FFF,100:000000&height=3"/>
+</div>
+
 <div align="center">
 
 # 🌐 Connect With Me
@@ -426,3 +432,4 @@
 
 </div>
 ```
+
