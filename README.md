@@ -429,6 +429,8 @@
 <div align="center">
 
 ### **Learning • Investigating • Securing**
+Life is fucked up....
+
 
 </div>
 ```
