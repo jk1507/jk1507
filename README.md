@@ -428,7 +428,7 @@
 
 <div align="center">
 
-### **Learning • Investigating • Securing**
+### **Wasting time. just scrolling. Just nwed a come back **
 Life is fucked up....
 
 
